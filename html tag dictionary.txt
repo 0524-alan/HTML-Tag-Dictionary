@@ -1,0 +1,41 @@
+<a>: tag for connect to the website.
+attribution none
+ex. <a href=" ***************(your website link) "> ******************(you can put anything, and it will appear on your website.) </a>
+
+<h1>: Header tag, makes the text large and puts it on a seperate line
+attribution none
+ex. <h1> *************** </h2>
+h1>h2>h3>h4>h5>h6
+
+<img>: showing an image on your website
+attribution none
+ex. <img src="**********(Your picture name.)">
+
+<li>: using in side of <ol> or <ul>, for making a list of you subject.
+attribution none
+ex. <ul>/<ol>
+          <li> *****************************</li>
+		  <li> *****************************</li>
+		  <li> *****************************</li>
+
+<ol>: making a list with dot.
+attribution none
+ex. <ol>
+        . **************************************
+		. **************************************
+		. **************************************
+	</ol>	
+
+<p>: Using for makina a paragraph
+attribution none
+ex. <p> *****************************************</p>
+
+<ul>: making a list with number.
+attribution none
+ex.<ul>
+        1.*********************************************
+		2.*********************************************
+		3.*********************************************
+	</ul>
+	
+	
